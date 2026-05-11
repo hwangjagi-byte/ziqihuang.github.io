@@ -1,6 +1,8 @@
 --- 
 layout: default 
 title: Ziqi Huang
+header-includes:
+  - <link rel="icon" type="image/png" href="/icon.png">
 --- 
 
 # Ziqi Huang 
