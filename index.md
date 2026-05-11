@@ -1,10 +1,6 @@
 --- 
 layout: default 
 title: Ziqi Huang
-header-includes:
-  - <link rel="icon" type="image/png" href="/favicon.png">
-  - <link rel="shortcut icon" href="/favicon.ico">
-  - <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 --- 
 
 # Ziqi Huang 
