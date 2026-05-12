@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Ziqi Huang
 description: >-
   PhD Student at McGill University
+  <div style="margin-bottom: 25px;"></div> 
   <a href="https://www.linkedin.com/in/ziqi-huang-334b88201/"><i class="fab fa-linkedin"></i> LinkedIn</a>
   <a href="https://github.com/ZiqiHuang11"><i class="fab fa-github"></i> GitHub</a>
   <a href="mailto:ziqi.huang2@mail.mcgill.ca"><i class="fas fa-envelope"></i> Email</a>
