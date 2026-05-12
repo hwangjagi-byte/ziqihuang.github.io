@@ -2,15 +2,9 @@ theme: jekyll-theme-minimal
 title: Ziqi Huang
 description: >-
   PhD Student at McGill University
-  <div style="margin-top: 15px;">
-    <a href="https://www.linkedin.com/in/ziqi-huang-334b88201/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-  </div>
-  <div style="margin-top: 10px;">
-    <a href="https://github.com/ZiqiHuang11"><i class="fab fa-github"></i> GitHub</a>
-  </div>
-  <div style="margin-top: 10px;">
-    <a href="mailto:ziqi.huang2@mail.mcgill.ca"><i class="fas fa-envelope"></i> Email</a>
-  </div>
+  <a href="https://www.linkedin.com/in/ziqi-huang-334b88201/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+  <a href="https://github.com/ZiqiHuang11"><i class="fab fa-github"></i> GitHub</a>
+  <a href="mailto:ziqi.huang2@mail.mcgill.ca"><i class="fas fa-envelope"></i> Email</a>
 
 
 # This helps the theme identify your social profiles
