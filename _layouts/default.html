@@ -11,15 +11,28 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <div style="height: 1.5em;"></div> 
+        
+        <h1 style="margin-top: 0;"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
 
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description }}</p>
 
-        </header>
+        <div style="margin-bottom: 30px;"></div>
+
+        <a href="https://www.linkedin.com/in/ziqi-huang-334b88201/" style="display: block; margin-bottom: 10px;">
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+        <a href="https://github.com/ZiqiHuang11" style="display: block; margin-bottom: 10px;">
+          <i class="fab fa-github"></i> GitHub
+        </a>
+        <a href="mailto:ziqi.huang2@mail.mcgill.ca" style="display: block; margin-bottom: 10px;">
+          <i class="fas fa-envelope"></i> Email
+        </a>
+      </header>
       <section>
         {{ content }}
       </section>
