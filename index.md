@@ -1,7 +1,6 @@
 --- 
 layout: default 
 title: Ziqi Huang
-linkedin_username: ziqi-huang-334b88201
 --- 
 
 # Ziqi Huang 
