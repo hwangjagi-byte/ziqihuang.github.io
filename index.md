@@ -5,7 +5,7 @@ title: Ziqi Huang
 
 # Ziqi Huang 
 I am a PhD student in the Department of Electrical and Computer Engineering at McGill University. 
-My research interests include Graphon Mean Field Games (GMFG) and their applications in protein conformation prediction.  
+My research interests include Graphon Mean Field Games (GMFG).  
 
 ## Publications 
 * **Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields**
