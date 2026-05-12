@@ -13,12 +13,31 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 <style>
-  /* Keeps sidebar links professional */
-  header a {
-    color: #444;
-    text-decoration: none;
+  /* Standard 1.5 spacing for text */
+  header p {
+    line-height: 1.5 !important;
+    color: #555; /* Slightly gray for the "PhD student" text */
   }
+  
+  /* Restore Blue Color and add spacing */
+  header a {
+    display: block; 
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    color: #0077b5 !important; /* Professional Link Blue */
+    text-decoration: none;
+    font-weight: 500;
+  }
+
   header a:hover {
     text-decoration: underline;
+    color: #005582 !important; /* Darker blue on hover */
+  }
+
+  /* Keep icons aligned */
+  .fab, .fas {
+    width: 20px;
+    text-align: center;
+    margin-right: 5px;
   }
 </style>
