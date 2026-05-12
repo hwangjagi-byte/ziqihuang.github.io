@@ -13,31 +13,38 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 <style>
-  /* Standard 1.5 spacing for text */
+  /* Bold the main Sidebar Name */
+  header h1 a {
+    font-weight: 700 !important;
+    color: #222 !important; /* Professional dark gray/black */
+  }
+
+  /* PhD student text styling */
   header p {
     line-height: 1.5 !important;
-    color: #555; /* Slightly gray for the "PhD student" text */
+    margin-bottom: 0.5em;
+    color: #555;
+    font-size: 0.95em;
   }
   
-  /* Restore Blue Color and add spacing */
+  /* Link styling: Spaced out and Professional Blue */
   header a {
     display: block; 
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    color: #0077b5 !important; /* Professional Link Blue */
+    margin-top: 0.6em; /* Adjust this for space between individual links */
+    margin-bottom: 0.6em;
+    color: #0077b5 !important; /* LinkedIn/Professional Blue */
     text-decoration: none;
     font-weight: 500;
   }
 
   header a:hover {
     text-decoration: underline;
-    color: #005582 !important; /* Darker blue on hover */
   }
 
-  /* Keep icons aligned */
-  .fab, .fas {
+  /* Aligns FontAwesome icons */
+  .fab, .fas, .fa-solid, .fa-brands {
     width: 20px;
     text-align: center;
-    margin-right: 5px;
+    margin-right: 8px;
   }
 </style>
